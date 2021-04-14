@@ -1,0 +1,23 @@
+{
+  "name": "daily-motto",
+  "version": "1.0.0",
+  "description": "There are something in life that we should remember.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchunhui/daily-motto.git"
+  },
+  "author": "fuchunhui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuchunhui/daily-motto/issues"
+  },
+  "homepage": "https://github.com/fuchunhui/daily-motto#readme",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
