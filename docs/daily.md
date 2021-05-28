@@ -10,3 +10,5 @@ it's never just an if statement.
 
 教育改变命运，我们改变教育
 
+做好时间管理，告别碌碌无为
+
