@@ -14,3 +14,4 @@ it's never just an if statement.
 
 身在职场，时刻谨记规则。
 
+产生一个好的想法，最佳方法就是先产生许许多多的想法。
