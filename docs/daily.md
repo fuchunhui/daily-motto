@@ -29,3 +29,5 @@ it's never just an if statement.
 心栖梦归处，不负韶华年。
 
 山海自有归期，风雨自有相逢。
+
+善始者实繁，克终者盖寡。
