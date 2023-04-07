@@ -47,3 +47,7 @@ it's never just an if statement.
 缓慢的、持久的、有纪律的努力，最终会导致令人难以置信的结果。
 
 每当我无法忍受日常生活时，我就提醒自己，没有什么比每天坚持做下去更重要了。虽然我很难看到未来会怎样，但我知道持久性具有强大的威力，keep doing。
+
+Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
+
+如果可能，产品增加什么样的特性，可以让它的价格提高十倍？如果你有十倍的资源，会对产品做哪些改变？
