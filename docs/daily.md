@@ -51,3 +51,5 @@ it's never just an if statement.
 Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.
 
 如果可能，产品增加什么样的特性，可以让它的价格提高十倍？如果你有十倍的资源，会对产品做哪些改变？
+
+每当你有一种“应该有人在这里做某事”的感觉，那个应该做这件事的人很可能就是你。
