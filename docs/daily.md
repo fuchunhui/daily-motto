@@ -55,3 +55,7 @@ Twenty years from now you will be more disappointed by the things that you didn'
 每当你有一种“应该有人在这里做某事”的感觉，那个应该做这件事的人很可能就是你。
 
 当你心里没有恐惧，不担心服务不好少数几个超级大客户时，做正确的事就会容易得多。
+
+Programmers Don't Read Books -- But You Should
+
+一周是一年的2%，请认真对待每一天。
